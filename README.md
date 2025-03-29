@@ -1,4 +1,4 @@
-# android-app-template
+# TE-app
 
 [![GitHub license](https://img.shields.io/github/license/BetterAndroid/android-app-template?color=blue)](https://github.com/BetterAndroid/android-app-template/blob/main/LICENSE)
 [![Telegram](https://img.shields.io/badge/discussion-Telegram-blue.svg?logo=telegram)](https://t.me/BetterAndroid)
